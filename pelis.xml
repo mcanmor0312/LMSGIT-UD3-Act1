@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Maraton_pelis>
+    <peli>
+        <directores>
+            <director>
+                <apellido1>Coen</apellido1>
+                <apellido2>Brothers</apellido2>
+                <nombre>Joel</nombre>
+            </director>
+            <director>
+                <apellido1>Anderson</apellido1>
+                <apellido2>Paul</apellido2>
+                <nombre>Thomas</nombre>
+            </director>
+        </directores>
+        <título>No Country for Old Men</título>
+        <duración_peli>2 horas 2 minutos</duración_peli>
+        <fecha_estreno>2007</fecha_estreno>
+    </peli>
+
+    <peli>
+        <directores>
+            <director>
+                <apellido1>Fincher</apellido1>
+                <apellido2>David</apellido2>
+                <nombre>Andrew</nombre>
+            </director>
+        </directores>
+        <título>Fight Club</título>
+        <duración_peli>2 horas 19 minutos</duración_peli>
+        <fecha_estreno>1999</fecha_estreno>
+    </peli>
+    <peli>
+        <directores>
+            <director>
+                <apellido1>Almodóvar</apellido1>
+                <apellido2>Sánchez</apellido2>
+                <nombre>Pedro</nombre>
+            </director>
+            <director>
+                <apellido1>López</apellido1>
+                <apellido2>Jiménez</apellido2>
+                <nombre>Isabel</nombre>
+            </director>
+        </directores>
+        <título>Dolor y Gloria</título>
+        <duración_peli>2 horas 3 minutos</duración_peli>
+        <fecha_estreno>2019</fecha_estreno>
+    </peli>
+
+    <peli>
+        <directores>
+            <director>
+                <apellido1>Balagueró</apellido1>
+                <apellido2>Velasco</apellido2>
+                <nombre>Jaume</nombre>
+            </director>
+            <director>
+                <apellido1>Plaza</apellido1>
+                <apellido2>López</apellido2>
+                <nombre>Paco</nombre>
+            </director>
+        </directores>
+        <título>Verónica</título>
+        <duración_peli>1 hora 45 minutos</duración_peli>
+        <fecha_estreno>2017</fecha_estreno>
+    </peli>
+    <peli>
+        <directores>
+            <director>
+                <apellido1>Spielberg</apellido1>
+                <apellido2>Johnson</apellido2>
+                <nombre>Steven</nombre>
+            </director>
+            <director>
+                <apellido1>Howard</apellido1>
+                <apellido2>Williams</apellido2>
+                <nombre>Ron</nombre>
+            </director>
+        </directores>
+        <título>Ready Player One</título>
+        <duración_peli>2 horas 20 minutos</duración_peli>
+        <fecha_estreno>2018</fecha_estreno>
+    </peli>
+
+    <peli>
+        <directores>
+            <director>
+                <apellido1>Nolan</apellido1>
+                <apellido2>Smith</apellido2>
+                <nombre>Christopher</nombre>
+            </director>
+        </directores>
+        <título>Inception</título>
+        <duración_peli>2 horas 28 minutos</duración_peli>
+        <fecha_estreno>2010</fecha_estreno>
+    </peli>
+    <peli>
+        <directores>
+            <director>
+                <apellido1>Jeunet</apellido1>
+                <apellido2>Dufayel</apellido2>
+                <nombre>Jean-Pierre</nombre>
+            </director>
+            <director>
+                <apellido1>Gondry</apellido1>
+                <apellido2>Beaucarne</apellido2>
+                <nombre>Michel</nombre>
+            </director>
+        </directores>
+        <título>Amélie</título>
+        <duración_peli>2 horas 2 minutos</duración_peli>
+        <fecha_estreno>2001</fecha_estreno>
+    </peli>
+
+    <peli>
+        <directores>
+            <director>
+                <apellido1>Klapisch</apellido1>
+                <apellido2>Delpy</apellido2>
+                <nombre>Cédric</nombre>
+            </director>
+            <director>
+                <apellido1>Carion</apellido1>
+                <apellido2>Boisrobert</apellido2>
+                <nombre>Christian</nombre>
+            </director>
+        </directores>
+        <título>Paris</título>
+        <duración_peli>2 horas 10 minutos</duración_peli>
+        <fecha_estreno>2008</fecha_estreno>
+    </peli>
+    <peli>
+        <directores>
+            <director>
+                <apellido1>Tykwer</apellido1>
+                <apellido2>Schmitz</apellido2>
+                <nombre>Tom</nombre>
+            </director>
+            <director>
+                <apellido1>Haneke</apellido1>
+                <apellido2>Huber</apellido2>
+                <nombre>Michael</nombre>
+            </director>
+        </directores>
+        <título>Corre Lola, Corre</título>
+        <duración_peli>1 hora 20 minutos</duración_peli>
+        <fecha_estreno>1998</fecha_estreno>
+    </peli>
+    <peli>
+        <directores>
+            <director>
+                <apellido1>Grau</apellido1>
+                <apellido2>Becker</apellido2>
+                <nombre>Wolfgang</nombre>
+            </director>
+            <director>
+                <apellido1>Perceval</apellido1>
+                <apellido2>Hoffmann</apellido2>
+                <nombre>Christopher</nombre>
+            </director>
+        </directores>
+        <título>Oh Boy</título>
+        <duración_peli>1 hora 23 minutos</duración_peli>
+        <fecha_estreno>2012</fecha_estreno>
+    </peli>
+</Maraton_pelis>

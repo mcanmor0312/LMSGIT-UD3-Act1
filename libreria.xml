@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<nombre xmlns:s="Edad del autor" xmlns:l="Páginas del libro">
+<biblioteca>
+    <libro id="1">
+        <autores>
+            <autor>
+                <apeelido1>Webb</apeelido1>
+                <apellido2>Tatum</apellido2>
+                <nombre>Nicola</nombre>
+                <s>46 años</s>
+            </autor>
+            <autor>
+                <apellido1>Avalonic</apellido1>
+                <apellido2>Lillard</apellido2>
+                <nombre>Dame</nombre>
+                <s>66 años</s>
+            </autor>
+        </autores>
+        <titulo>The Mandalorian</titulo>
+        <editorial>Planeta</editorial>
+        <fecha_publicación>2021</fecha_publicación>
+        <ISBN>9788408237044</ISBN>
+        <l>333</l>
+    </libro>
+    <libro id="2">
+        <autores>
+            <autor>
+                <apellido1>Sánchez</apellido1>
+                <apellido2>Gómez</apellido2>
+                <nombre>Marta</nombre>
+                <s>55 años</s>
+            </autor>
+        </autores>
+        <titulo>Aventuras en el Bosque Encantado</titulo>
+        <editorial>Ediciones Mágicas</editorial>
+        <fecha_publicación>2023</fecha_publicación>
+        <ISBN>9788412345678</ISBN>
+        <l>532</l>
+    </libro>
+    <libro id="3">
+        <autores>
+            <autor>
+                <apellido1>Ramírez</apellido1>
+                <apellido2>González</apellido2>
+                <nombre>Carlos</nombre>
+                <s>56 años</s>
+            </autor>
+            <autor>
+                <apellido1>Martínez</apellido1>
+                <apellido2>López</apellido2>
+                <nombre>Isabel</nombre>
+                <s>38 años</s>
+            </autor>
+        </autores>
+        <titulo>El Secreto de la Montaña</titulo>
+        <editorial>Libros del Horizonte</editorial>
+        <fecha_publicación>2022</fecha_publicación>
+        <ISBN>9788412345678</ISBN>
+        <l>231</l>
+    </libro>
+    <libro id="4">
+        <autores>
+            <autor>
+                <apellido1>Fernández</apellido1>
+                <apellido2>Ruiz</apellido2>
+                <nombre>Javier</nombre>
+                <s>77 años</s>
+            </autor>
+        </autores>
+        <titulo>Exploradores del Espacio</titulo>
+        <editorial>Galaxia Ediciones</editorial>
+        <fecha_publicación>2023</fecha_publicación>
+        <ISBN>9788567890123</ISBN>
+        <l>634</l>
+    </libro>
+
+    <libro id="5">
+        <autores>
+            <autor>
+                <apellido1>Ruiz</apellido1>
+                <apellido2>Martínez</apellido2>
+                <nombre>Isabel</nombre>
+                <s>81 años</s>
+            </autor>
+        </autores>
+        <titulo>Aventuras en la Ciudad Perdida</titulo>
+        <editorial>Libros Urbanos</editorial>
+        <fecha_publicación>2023</fecha_publicación>
+        <ISBN>9788567451236</ISBN>
+        <l>411</l>
+    </libro>
+    <libro id="6">
+        <autores>
+            <autor>
+                <apellido1>Gómez</apellido1>
+                <apellido2>Rodríguez</apellido2>
+                <nombre>Ana</nombre>
+                <s>69 años</s>
+            </autor>
+            <autor>
+                <apellido1>Fernández</apellido1>
+                <apellido2>López</apellido2>
+                <nombre>Carlos</nombre>
+                <s>33 años</s>
+            </autor>
+        </autores>
+        <titulo>El Misterio del Jardín Secreto</titulo>
+        <editorial>Ediciones Fantásticas</editorial>
+        <fecha_publicación>2022</fecha_publicación>
+        <ISBN>9788411122334</ISBN>
+        <l>211</l>
+    </libro>
+    <libro id="7">
+        <autores>
+            <autor>
+                <apellido1>Martin</apellido1>
+                <apellido2>R.R.</apellido2>
+                <nombre>George</nombre>
+                <s>77 años</s>
+            </autor>
+        </autores>
+        <titulo>Game of Thrones: A Song of Ice and Fire</titulo>
+        <editorial>Random House</editorial>
+        <fecha_publicación>1996</fecha_publicación>
+        <ISBN>9780553573404</ISBN>
+        <l>344</l>
+    </libro>
+
+    <libro id="8">
+        <autores>
+            <autor>
+                <apellido1>Goldman</apellido1>
+                <apellido2>Jane</apellido2>
+                <nombre>William</nombre>
+                <s>32 años</s>
+            </autor>
+        </autores>
+        <titulo>FireBlood: 300 Years Before A Game of Thrones</titulo>
+        <editorial>Bantam Books</editorial>
+        <fecha_publicación>2018</fecha_publicación>
+        <ISBN>9781524796280</ISBN>
+        <l>221</l>
+    </libro>
+    <libro id="9">
+        <autores>
+            <autor>
+                <apellido1>Tolkien</apellido1>
+                <apellido2>J.R.R.</apellido2>
+                <nombre>John</nombre>
+                <s>48 años</s>
+            </autor>
+        </autores>
+        <titulo>The Fellowship of the Ring</titulo>
+        <editorial>Houghton Mifflin</editorial>
+        <fecha_publicación>1954</fecha_publicación>
+        <ISBN>9780618574940</ISBN>
+        <l>873</l>
+    </libro>
+
+    <libro id="10">
+        <autores>
+            <autor>
+                <apellido1>Tolkien</apellido1>
+                <apellido2>J.R.R.</apellido2>
+                <nombre>John</nombre>
+                <s>25 años</s>
+            </autor>
+        </autores>
+        <titulo>The Return of the King</titulo>
+        <editorial>Allen, Unwin</editorial>
+        <fecha_publicación>1955</fecha_publicación>
+        <ISBN>9780007129720</ISBN>
+        <l>1233</l>
+    </libro>
+</biblioteca>
+</nombre>
